@@ -1,0 +1,25 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(213, 136, 1, 0.818);
+    font-size: 35px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(65, 57, 57);
+    font-size: 16px;
+}
+
+a {
+    color: rgb(6, 158, 8);
+    font-weight: bolder;
+}
+
+p {
+    margin: 30px;
+}
